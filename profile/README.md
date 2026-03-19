@@ -23,9 +23,10 @@ GitHub organization for Homelab setup and related projects.
 
 ### 🌐 IAC for external infrastructure
 
-| Repository                                                        | Description                                                        |
-|-------------------------------------------------------------------|--------------------------------------------------------------------|
-| [infra-cloudflare](https://github.com/KarafrOrg/infra-cloudflare) | Terraform configuration for provisioning Cloudflare infrastructure |
+| Repository                                                        | Description                                                                             |
+|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| [infra-cloudflare](https://github.com/KarafrOrg/infra-cloudflare) | Terraform configuration for provisioning Cloudflare infrastructure                      |
+| [infra-gcp](https://github.com/KarafrOrg/infra-gcp)               | Terraform configuration for provisioning [GCP](https://cloud.google.com) infrastructure |
 
 ## Important links
 
@@ -33,3 +34,4 @@ GitHub organization for Homelab setup and related projects.
 - [Grafana](https://grafana.karafra.net) - Metrics and logs visualization
 - [Cloudflare Dashboard](https://dash.cloudflare.com) - Cloudflare infrastructure management
 - [Terraform cloud organization](https://app.terraform.io/app/karafrorg) - Terraform state management and collaboration
+- [GCP Console](https://console.cloud.google.com) - GCP infrastructure management
