@@ -6,7 +6,7 @@ Repositories
         src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white"> <img
         src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
 </p>
-⎈ Reusable helm charts
+<h2> ⎈ Reusable helm charts </h2>
 <table width="100%">
     <thead>
     <tr>
@@ -30,7 +30,7 @@ Repositories
     </tr>
     </tbody>
 </table>
-🏗️ Helm charts infrastructure
+<h2> 🏗️ Helm charts infrastructure </h2>
 <table width="100%">
     <thead>
     <tr>
@@ -61,7 +61,7 @@ Repositories
     </tr>
     </tbody>
 </table>
-🌐 IaC for external infrastructure
+<h2> 🌐 IaC for external infrastructure </h2>
 <table width="100%">
     <thead>
     <tr>
@@ -81,9 +81,13 @@ Repositories
     </tr>
     </tbody>
 </table>
-Important links
-ArgoCD – GitOps tooling for managing k8s cluster
-Grafana – Metrics and logs visualization
-Cloudflare Dashboard – Cloudflare infrastructure management
-Terraform Cloud organization – Terraform state management and collaboration
-GCP Console – GCP infrastructure management
+
+<h2>🔗Useful links</h2>
+
+<ul>
+  <li><strong>ArgoCD</strong> → <a href="https://argocd.karafra.net">argocd.karafra.net</a></li>
+  <li><strong>Grafana</strong> → <a href="https://grafana.karafra.net">grafana.karafra.net</a></li>
+  <li>☁<strong>Cloudflare</strong> → <a href="https://dash.cloudflare.com">dash.cloudflare.com</a></li>
+  <li><strong>Terraform Cloud</strong> → <a href="https://app.terraform.io/app/karafrorg">app.terraform.io/app/karafrorg</a></li>
+  <li><strong>GCP Console</strong> → <a href="https://console.cloud.google.com">console.cloud.google.com</a></li>
+</ul>
