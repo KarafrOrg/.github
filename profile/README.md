@@ -85,9 +85,9 @@ Repositories
 <h2>🔗Useful links</h2>
 
 <ul>
-  <li><strong>ArgoCD</strong> → <a href="https://argocd.karafra.net">argocd.karafra.net</a></li>
-  <li><strong>Grafana</strong> → <a href="https://grafana.karafra.net">grafana.karafra.net</a></li>
-  <li><strong>Cloudflare</strong> → <a href="https://dash.cloudflare.com">dash.cloudflare.com</a></li>
-  <li><strong>Terraform Cloud</strong> → <a href="https://app.terraform.io/app/karafrorg">app.terraform.io/app/karafrorg</a></li>
-  <li><strong>GCP Console</strong> → <a href="https://console.cloud.google.com">console.cloud.google.com</a></li>
+  <li><a href="https://argocd.karafra.net">ArgoCD</a> - GitOps CI/CD engine</li>
+  <li><a href="https://grafana.karafra.net">Grafana</a> - Metrics and logs visualization</li>
+  <li><a href="https://dash.cloudflare.com">Cloudflare</a> - Infrastructure and DNS management</li>
+  <li><a href="https://app.terraform.io/app/karafrorg">Terraform Cloud</a> - State management and collaboration</li>
+  <li><a href="https://console.cloud.google.com">GCP Console</a> - Google Cloud infrastructure management</li>
 </ul>
