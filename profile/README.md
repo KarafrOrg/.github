@@ -1,43 +1,89 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
-# [KarafrOrg](https://github.com/KarafrOrg)
-
+KarafrOrg
 GitHub organization for Homelab setup and related projects.
-
-## Repositories
-
-### ⎈ Reusable helm charts
-
-| Repository                                                    | Description                                    | ArtifactHub link                                                                                    |
-|---------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| [edge-access](https://github.com/KarafrOrg/edge-access)       | Allows access to services via internet         | [edge-access/edge-access](https://artifacthub.io/packages/helm/edge-access/edge-access)             |
-| [object-buckets](https://github.com/KarafrOrg/object-buckets) | Provisiones s3 compatble block storage buckets | [object-buckets/object-buckets](https://artifacthub.io/packages/helm/object-buckets/object-buckets) |
-
-### 🏗️ Helm charts infrastructure
-
-| Repository                                                        | Description                                                                    |
-|-------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| [infra-cicd](https://github.com/KarafrOrg/infra-cicd)             | Helm charts provisioning ci/cd infrastructure withing k8s cluster              |
-| [infra-network](https://github.com/KarafrOrg/infra-network)       | Helm charts provisioning network infrastructure withing k8s cluster            |
-| [infra-storage](https://github.com/KarafrOrg/infra-storage)       | Helm charts provisioning storage infrastructure withing k8s cluster            |
-| [infra-secrets](https://github.com/KarafrOrg/infra-secrets)       | Helm charts provisioning secrets management infrastructure withing k8s cluster |
-| [infra-monitoring](https://github.com/KarafrOrg/infra-monitoring) | Helm charts provisioning monitoring infrastructure withing k8s cluster         |
-
-### 🌐 IAC for external infrastructure
-
-| Repository                                                        | Description                                                                                      |
-|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [infra-cloudflare](https://github.com/KarafrOrg/infra-cloudflare) | Terraform configuration for provisioning [Cloudflare](https://www.cloudflare.com) infrastructure |
-| [infra-gcp](https://github.com/KarafrOrg/infra-gcp)               | Terraform configuration for provisioning [GCP](https://cloud.google.com) infrastructure          |
-
-## Important links
-
-- [ArgoCD](https://argocd.karafra.net) - GitOps tooling for managing k8s cluster
-- [Grafana](https://grafana.karafra.net) - Metrics and logs visualization
-- [Cloudflare Dashboard](https://dash.cloudflare.com) - Cloudflare infrastructure management
-- [Terraform cloud organization](https://app.terraform.io/app/karafrorg) - Terraform state management and collaboration
-- [GCP Console](https://console.cloud.google.com) - GCP infrastructure management
+Repositories
+<p align="left"><img src="https://img.shields.io/badge/Kubernetes-%23007ACC?logo=kubernetes&logoColor=white"> <img
+        src="https://img.shields.io/badge/Terraform-%235835CC?logo=terraform&logoColor=white"> <img
+        src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white"> <img
+        src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
+</p>
+⎈ Reusable helm charts
+<table width="100%">
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Description</th>
+        <th>ArtifactHub link</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/edge-access">edge-access</a></td>
+        <td>Allows access to services via internet</td>
+        <td><a href="https://artifacthub.io/packages/helm/edge-access/edge-access">edge-access/edge-access</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/object-buckets">object-buckets</a></td>
+        <td>Provisions S3-compatible block storage buckets</td>
+        <td>
+            <a href="https://artifacthub.io/packages/helm/object-buckets/object-buckets">object-buckets/object-buckets</a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+🏗️ Helm charts infrastructure
+<table width="100%">
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Description</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/infra-cicd">infra-cicd</a></td>
+        <td>Helm charts provisioning CI/CD infrastructure within Kubernetes cluster</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/infra-network">infra-network</a></td>
+        <td>Helm charts provisioning network infrastructure within Kubernetes cluster</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/infra-storage">infra-storage</a></td>
+        <td>Helm charts provisioning storage infrastructure within Kubernetes cluster</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/infra-secrets">infra-secrets</a></td>
+        <td>Helm charts provisioning secrets management infrastructure within Kubernetes cluster</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/infra-monitoring">infra-monitoring</a></td>
+        <td>Helm charts provisioning monitoring infrastructure within Kubernetes cluster</td>
+    </tr>
+    </tbody>
+</table>
+🌐 IaC for external infrastructure
+<table width="100%">
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Description</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/infra-cloudflare">infra-cloudflare</a></td>
+        <td>Terraform configuration for provisioning <a href="https://www.cloudflare.com">Cloudflare</a> infrastructure
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/infra-gcp">infra-gcp</a></td>
+        <td>Terraform configuration for provisioning <a href="https://cloud.google.com">GCP</a> infrastructure</td>
+    </tr>
+    </tbody>
+</table>
+Important links
+ArgoCD – GitOps tooling for managing k8s cluster
+Grafana – Metrics and logs visualization
+Cloudflare Dashboard – Cloudflare infrastructure management
+Terraform Cloud organization – Terraform state management and collaboration
+GCP Console – GCP infrastructure management
