@@ -1,3 +1,9 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 # [KarafrOrg](https://github.com/KarafrOrg)
 
 GitHub organization for Homelab setup and related projects.
