@@ -85,7 +85,7 @@ GitHub organization for Homelab setup and related projects.
     </tbody>
 </table>
 
-<h2>🔗Useful links</h2>
+<h2> 🔗Useful links</h2>
 
 <ul>
   <li><a href="https://argocd.karafra.net">ArgoCD</a> - GitOps CI/CD engine</li>
