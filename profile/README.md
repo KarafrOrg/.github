@@ -6,10 +6,10 @@ GitHub organization for Homelab setup and related projects.
 
 ### ⎈ Reusable helm charts
 
-| Repository                                                    | Description                                    |
-|---------------------------------------------------------------|------------------------------------------------|
-| [edge-access](https://github.com/KarafrOrg/edge-access)       | Allows access to services via internet         |
-| [object-buckets](https://github.com/KarafrOrg/object-buckets) | Provisiones s3 compatble block storage buckets |
+| Repository                                                    | Description                                    | ArtifactHub link                                                                                    |
+|---------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| [edge-access](https://github.com/KarafrOrg/edge-access)       | Allows access to services via internet         | [edge-access/edge-access](https://artifacthub.io/packages/helm/edge-access/edge-access)             |
+| [object-buckets](https://github.com/KarafrOrg/object-buckets) | Provisiones s3 compatble block storage buckets | [object-buckets/object-buckets](https://artifacthub.io/packages/helm/object-buckets/object-buckets) |
 
 ### 🏗️ Helm charts infrastructure
 
@@ -23,10 +23,10 @@ GitHub organization for Homelab setup and related projects.
 
 ### 🌐 IAC for external infrastructure
 
-| Repository                                                        | Description                                                                             |
-|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| [infra-cloudflare](https://github.com/KarafrOrg/infra-cloudflare) | Terraform configuration for provisioning Cloudflare infrastructure                      |
-| [infra-gcp](https://github.com/KarafrOrg/infra-gcp)               | Terraform configuration for provisioning [GCP](https://cloud.google.com) infrastructure |
+| Repository                                                        | Description                                                                                      |
+|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| [infra-cloudflare](https://github.com/KarafrOrg/infra-cloudflare) | Terraform configuration for provisioning [Cloudflare](https://www.cloudflare.com) infrastructure |
+| [infra-gcp](https://github.com/KarafrOrg/infra-gcp)               | Terraform configuration for provisioning [GCP](https://cloud.google.com) infrastructure          |
 
 ## Important links
 
