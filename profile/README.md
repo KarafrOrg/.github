@@ -1,8 +1,6 @@
 <h1> 
     <a href="https://github.com/KarafrOrg">KarafrOrg</a>
 </h1>
-GitHub organization for Homelab setup and related projects.
-Repositories
 <p align="left">
     <img src="https://img.shields.io/badge/Kubernetes-%23007ACC?logo=kubernetes&logoColor=white"> 
     <img src="https://img.shields.io/badge/Terraform-%235835CC?logo=terraform&logoColor=white">
@@ -10,6 +8,7 @@ Repositories
     <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
     <img src="https://img.shields.io/badge/OVH-0A2E5C?logo=ovh&logoColor=white">
 </p>
+GitHub organization for Homelab setup and related projects.
 <h2> ⎈ Reusable helm charts </h2>
 <table width="100%">
     <thead>
