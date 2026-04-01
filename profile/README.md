@@ -86,6 +86,10 @@ GitHub organization for Homelab setup and related projects.
         <td><a href="https://github.com/KarafrOrg/infra-terraform">infra-terraform</a></td>
         <td>Terraform configuration for provisioning <a href="https://app.terraform.io/app/organizations">Terraform Cloud</a> resources</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/infra-github">infra-github</a></td>
+        <td>Terraform configuration for provisioning <a href="https://github.com">GitHub</a> resources</td>
+    </tr>
     </tbody>
 </table>
 
