@@ -90,6 +90,10 @@ GitHub organization for Homelab setup and related projects.
         <td><a href="https://github.com/KarafrOrg/infra-github">infra-github</a></td>
         <td>Terraform configuration for provisioning <a href="https://github.com">GitHub</a> resources</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/infra-ovh">infra-ovh</a></td>
+        <td>Terraform configuration for provisioning <a href="https://www.ovhcloud.com/en/">OVH</a> resources</td>
+    </tr>
     </tbody>
 </table>
 
@@ -100,4 +104,5 @@ GitHub organization for Homelab setup and related projects.
   <li><a href="https://dash.cloudflare.com">Cloudflare</a> - Infrastructure and DNS management</li>
   <li><a href="https://app.terraform.io/app/karafrorg">Terraform Cloud</a> - State management and collaboration</li>
   <li><a href="https://console.cloud.google.com">GCP Console</a> - Google Cloud infrastructure management</li>
+  <li><a href="https://manager.ca.ovhcloud.com/#/dedicated-servers/server">OVH Console</a> - Bare metal servers</li>
 </ul>
