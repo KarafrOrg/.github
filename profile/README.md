@@ -94,6 +94,10 @@ GitHub organization for Homelab setup and related projects.
         <td><a href="https://github.com/KarafrOrg/infra-ovh">infra-ovh</a></td>
         <td>Terraform configuration for provisioning <a href="https://www.ovhcloud.com/en/">OVH</a> resources</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/KarafrOrg/infra-cluster">infra-cluster</a></td>
+        <td>Ansible playbooks used for bootstrapping and managing k8s<a href="https://kubernetes.io">OVH</a> cluster</td>
+    </tr>
     </tbody>
 </table>
 
