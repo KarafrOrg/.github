@@ -96,7 +96,7 @@ GitHub organization for Homelab setup and related projects.
     </tr>
     <tr>
         <td><a href="https://github.com/KarafrOrg/infra-cluster">infra-cluster</a></td>
-        <td>Ansible playbooks used for bootstrapping and managing k8s<a href="https://kubernetes.io">OVH</a> cluster</td>
+        <td>Ansible playbooks used for bootstrapping and managing k8s <a href="https://kubernetes.io">k8s</a> cluster</td>
     </tr>
     </tbody>
 </table>
