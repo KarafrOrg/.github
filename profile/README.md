@@ -70,17 +70,22 @@ GitHub organization for Homelab setup and related projects.
     <tr>
         <th>Repository</th>
         <th>Description</th>
+        <th>Config state</th>
     </tr>
     </thead>
     <tbody>
     <tr>
         <td><a href="https://github.com/KarafrOrg/infra-cloudflare">infra-cloudflare</a></td>
         <td>Terraform configuration for provisioning <a href="https://www.cloudflare.com">Cloudflare</a> infrastructure
-        </td>
     </tr>
     <tr>
         <td><a href="https://github.com/KarafrOrg/infra-gcp">infra-gcp</a></td>
         <td>Terraform configuration for provisioning <a href="https://cloud.google.com">GCP</a> infrastructure</td>
+        <td>
+            <a href="https://github.com/KarafrOrg/infra-gcp/actions/workflows/default-branch-build.yaml">
+                <img src="https://img.shields.io/github/actions/workflow/status/KarafrOrg/infra-gcp/default-branch-build.yaml?branch=main&label=Apply&logo=terraform&style=for-the-badge" alt="Terraform Applied Badge">
+            </a>
+        </td>
     </tr>
     <tr>
         <td><a href="https://github.com/KarafrOrg/infra-terraform">infra-terraform</a></td>
