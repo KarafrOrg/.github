@@ -104,6 +104,11 @@ GitHub organization for Homelab setup and related projects.
     <tr>
         <td><a href="https://github.com/KarafrOrg/infra-github">infra-github</a></td>
         <td>Terraform configuration for provisioning <a href="https://github.com">GitHub</a> resources</td>
+        <td>
+            <a href="https://github.com/KarafrOrg/infra-github/actions/workflows/default-branch-build.yaml">
+                <img src="https://img.shields.io/github/actions/workflow/status/KarafrOrg/infra-github/default-branch-build.yaml?branch=main&label=Apply&logo=terraform&style=for-the-badge" alt="Terraform Applied Badge">
+            </a>
+        </td>
     </tr>
     <tr>
         <td><a href="https://github.com/KarafrOrg/infra-ovh">infra-ovh</a></td>
