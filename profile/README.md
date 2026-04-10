@@ -126,6 +126,22 @@ GitHub organization for Homelab setup and related projects.
     </tbody>
 </table>
 
+<h2>🐈 GitHub Actions </h2>
+
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Description</th>
+    </tr>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/KarafrOrg/actions-terraform-core">actions-terraform-core</a></td>
+            <td>Core reusable actions and workflows for working with <a href="https://developer.hashicorp.com/terraform">Terraform</a></td>
+        </tr>
+    </tbody>
+</table>
+
 <h2> 🔗 Useful links</h2>
 <ul>
   <li><a href="https://argocd.karafra.net">ArgoCD</a> - GitOps CI/CD engine</li>
