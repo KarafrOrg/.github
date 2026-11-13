@@ -43,24 +43,8 @@ GitHub organization for Homelab setup and related projects.
     </thead>
     <tbody>
     <tr>
-        <td><a href="https://github.com/KarafrOrg/infra-cicd">infra-cicd</a></td>
-        <td>Helm charts provisioning CI/CD infrastructure within Kubernetes cluster</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/KarafrOrg/infra-network">infra-network</a></td>
-        <td>Helm charts provisioning network infrastructure within Kubernetes cluster</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/KarafrOrg/infra-storage">infra-storage</a></td>
-        <td>Helm charts provisioning storage infrastructure within Kubernetes cluster</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/KarafrOrg/infra-secrets">infra-secrets</a></td>
-        <td>Helm charts provisioning secrets management infrastructure within Kubernetes cluster</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/KarafrOrg/infra-monitoring">infra-monitoring</a></td>
-        <td>Helm charts provisioning monitoring infrastructure within Kubernetes cluster</td>
+        <td><a href="https://github.com/KarafrOrg/infra-github-actions">infra-github-actions</a></td>
+        <td>Helm charts infrastructure for self-hosted GHA runners</td>
     </tr>
     </tbody>
 </table>
